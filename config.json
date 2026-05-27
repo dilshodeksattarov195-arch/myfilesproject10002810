@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsponnect",
+        "uuid": 26652850,
+        "checksum": "0joc7k"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
